@@ -8,6 +8,7 @@
 
 # LIVE Projects
 Living, breathing projects which have active users / visitors, and are currently in production!
+
 ##BZRDB.com
 - a companion web app for The Bazaar players. Fully featured with searchable and filterable game databases (EX Items, Skills, Enemies), alongside custom tools like the Bazaar Build Maker.
 - Built with React NextJS TS (frontend) MongoDB Node NGINX (backend)
