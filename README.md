@@ -22,7 +22,11 @@ Living, breathing projects which have active users / visitors, and are currently
 ## [FFXIVGuild](https://www.ffxivguild.com)
 - Guides and fansite for Final Fantasy 14. Was one of our first gaming properties / projects, and is still alive to this day! A legacy project, but it laid the groundwork for our future to come for many years.
 - 100% WordPress
-- 
+
+# Skills
+## Cat1
+## Cat2
+## Cat3
 
 <!---
 mahikosan/mahikosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
