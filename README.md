@@ -6,10 +6,10 @@ Living, breathing projects which have active users / visitors, and are currently
 
 ## [BZRDB.com](https://bzrdb.com)
 - a companion web app for The Bazaar players. Fully featured with searchable and filterable game databases (EX Items, Skills, Enemies), alongside custom tools like the Bazaar Build Maker. Here's important links to check out:
-  - test
-  - test
-  - test
-  - test.
+  - [The Bazaar Build Maker]() - Custom tool which generates a URL for people to share their builds.
+  - Items Database, with single item pages (IE: [k]())
+  - Skills Database with single skill pages (IE: [k]())
+  - Enemies Database, with single enemy pages (IE: [k]())
 - Built with React NextJS TS (frontend) MongoDB Node NGINX (backend)
 - Deployed on NON-Vercel self-hosted VPS.
 
@@ -24,9 +24,6 @@ Living, breathing projects which have active users / visitors, and are currently
 - 100% WordPress
 
 # Skills
-## Cat1
-## Cat2
-## Cat3
 
 <!---
 mahikosan/mahikosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
