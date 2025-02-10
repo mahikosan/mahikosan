@@ -6,7 +6,7 @@ Living, breathing projects which have active users / visitors, and are currently
 
 ## [BZRDB](https://bzrdb.com)
 - a companion web app for The Bazaar players. Fully featured with searchable and filterable game databases (EX Items, Skills, Enemies), alongside custom tools like the Bazaar Build Maker. Here's important links to check out:
-  - [The Bazaar Build Maker]() - Custom tool which generates a URL for people to share their builds.
+  - [The Bazaar Build Maker](https://bzrdb.com/bazaar-build-maker) - Custom tool which generates a URL for people to share their builds.
   - [Items Database](https://bzrdb.com/items), with single item pages (IE: [Athanor](https://bzrdb.com/items/athanor))
   - [Skills Database](https://bzrdb.com/skills) with single skill pages (IE: [Alacrity](https://bzrdb.com/skills/alacrity))
   - [Enemies Database](https://bzrdb.com/enemy), with single enemy pages (IE: [Dr. Vortex](https://bzrdb.com/enemy/dr-vortex))
