@@ -4,23 +4,26 @@
 # LIVE Projects
 Living, breathing projects which have active users / visitors, and are currently in production!
 
-## [BZRDB.com](https://bzrdb.com)
+## [BZRDB](https://bzrdb.com)
 - a companion web app for The Bazaar players. Fully featured with searchable and filterable game databases (EX Items, Skills, Enemies), alongside custom tools like the Bazaar Build Maker. Here's important links to check out:
   - [The Bazaar Build Maker]() - Custom tool which generates a URL for people to share their builds.
-  - Items Database, with single item pages (IE: [k]())
-  - Skills Database with single skill pages (IE: [k]())
-  - Enemies Database, with single enemy pages (IE: [k]())
+  - [Items Database](https://bzrdb.com/items), with single item pages (IE: [Athanor](https://bzrdb.com/items/athanor))
+  - [Skills Database](https://bzrdb.com/skills) with single skill pages (IE: [Alacrity](https://bzrdb.com/skills/alacrity))
+  - [Enemies Database](https://bzrdb.com/enemy), with single enemy pages (IE: [Dr. Vortex](https://bzrdb.com/enemy/dr-vortex))
 - Built with React NextJS TS (frontend) MongoDB Node NGINX (backend)
 - Deployed on NON-Vercel self-hosted VPS (Digital Ocean).
+- SEO Optimized resulting in hundreds of first page, top 1-5 results.
 
 ## [TeamBRG](https://www.teambrg.com)
 - Hybrid NextJS and WordPress site.
 - Uses NextJS for more modern parts of the site with custom functionality (IE [GBFR Character Sigils List](https://teambrg.com/granblue-fantasy-relink/db/sigils/gbfr-character-sigils-list-guide)).
 - The NextJS half is built with React / NextJS, with various DB support (SQLite + MongoDB).
 - Both halves are run on one NON-Vercel self-hosted VPS (Digital Ocean).
+- SEO Optimized resulting in hundreds of first page, top 1-5 results.
 
 ## [FFXIVGuild](https://www.ffxivguild.com)
 - Guides and fansite for Final Fantasy 14. Was one of our first gaming properties / projects, and is still alive to this day! A legacy project, but it laid the groundwork for our future to come for many years.
+- SEO Optimized resulting in hundreds of first page, top 1-5 results.
 - 100% WordPress
 
 # Skills
