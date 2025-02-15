@@ -1,4 +1,4 @@
-- 👋 Hi! Michael Malupa (@mahikosan for some) here! Have a look around 
+hi- 👋 Hi! Michael Malupa (@mahikosan for some) here! Have a look around 
 - 👀 I’m looking for work! Check out my [LinkedIn](www.linkedin.com/in/michael-malupa).
 
 # LIVE Projects
@@ -27,6 +27,9 @@ Living, breathing projects which have active users / visitors, and are currently
 - 100% WordPress
 
 # Skills
+- React
+- Next.js
+- Python
 
 <!---
 mahikosan/mahikosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
