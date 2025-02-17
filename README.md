@@ -30,6 +30,8 @@ Living, breathing projects which have active users / visitors, and are currently
 - React
 - Next.js
 - Python
+- Test Driven Development (TDD) Unit Testing
+- SEO
 
 <!---
 mahikosan/mahikosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
