@@ -31,6 +31,7 @@ Living, breathing projects which have active users / visitors, and are currently
 - Next.js
 - Python
 - Test Driven Development (TDD) Unit Testing
+- Agile / Scrum
 - SEO
 
 <!---
