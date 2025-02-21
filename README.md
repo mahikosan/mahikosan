@@ -15,10 +15,10 @@ Living, breathing projects which have active users / visitors, and are currently
 - SEO Optimized resulting in hundreds of first page, top 1-5 results.
 
 ## [TeamBRG](https://www.teambrg.com)
-- Hybrid NextJS and WordPress site.
+- A hybrid website which uses both NextJS and WordPress.
 - Uses NextJS for more modern parts of the site with custom functionality (IE [GBFR Character Sigils List](https://teambrg.com/granblue-fantasy-relink/db/sigils/gbfr-character-sigils-list-guide)).
-- The NextJS half is built with React / NextJS, with various DB support (SQLite + MongoDB).
-- Both halves are run on one NON-Vercel self-hosted VPS (Digital Ocean).
+- The NextJS half is built with React / NextJS, paired with MongoDB in the backend.
+- Both halves are deployed on a single NON-Vercel self-hosted VPS (Digital Ocean).
 - SEO Optimized resulting in hundreds of first page, top 1-5 results.
 
 ## [FFXIVGuild](https://www.ffxivguild.com)
@@ -33,6 +33,7 @@ Living, breathing projects which have active users / visitors, and are currently
 - Test Driven Development (TDD) Unit Testing
 - Agile / Scrum
 - SEO
+- Wordpress
 
 <!---
 mahikosan/mahikosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
