@@ -34,6 +34,8 @@ Living, breathing projects which have active users / visitors, and are currently
 - Agile / Scrum
 - SEO
 - Wordpress
+- CI/CD
+
 
 <!---
 mahikosan/mahikosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
