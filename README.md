@@ -1,4 +1,4 @@
-hi- 👋 Hi! Michael Malupa (@mahikosan for some) here! Have a look around 
+👋 Hi! Michael Malupa (@mahikosan for some) here! Have a look around 
 - 👀 I’m looking for work! Check out my [LinkedIn](www.linkedin.com/in/michael-malupa).
 
 # LIVE Projects
