@@ -30,11 +30,11 @@ Living, breathing projects which have active users / visitors, and are currently
 - React
 - Next.js
 - Python
-- Test Driven Development (TDD) Unit Testing
-- Agile / Scrum
 - SEO
 - Wordpress
 - CI/CD
+- Test Driven Development (TDD) Unit Testing
+- Agile / Scrum
 
 
 <!---
