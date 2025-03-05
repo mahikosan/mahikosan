@@ -30,7 +30,9 @@ Living, breathing projects which have active users and visitors, which are curre
 - React
 - Next.js
 - Python
-- SEO
+- Javascript
+- Jquery
+- SEO 
 - Wordpress
 - CI/CD
 - Test Driven Development (TDD) Unit Testing
