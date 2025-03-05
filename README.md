@@ -2,7 +2,7 @@
 - 👀 I’m looking for work! Check out my [LinkedIn](www.linkedin.com/in/michael-malupa).
 
 # LIVE Projects
-Living, breathing projects which have active users / visitors, and are currently in production!
+Living, breathing projects which have active users and visitors, which are currently in production.
 
 ## [BZRDB](https://bzrdb.com)
 - a companion web app for The Bazaar players. Fully featured with searchable and filterable game databases (EX Items, Skills, Enemies), alongside custom tools like the Bazaar Build Maker. Here's important links to check out:
