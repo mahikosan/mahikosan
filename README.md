@@ -38,6 +38,10 @@ Living, breathing projects which have active users and visitors, which are curre
 - Test Driven Development (TDD) Unit Testing
 - Agile / Scrum
 
+  Feel free to message and connect with me about anything!
+
+  # Hobbies / Interests / Other
+
 
 <!---
 mahikosan/mahikosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
