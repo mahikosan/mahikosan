@@ -40,8 +40,8 @@ Living, breathing projects which have active users and visitors, which are curre
 
   Feel free to message and connect with me about anything!
 
-  # Hobbies / Interests / Other
-
+# Hobbies / Interests / Other
+# Summary & Outro
 
 <!---
 mahikosan/mahikosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
