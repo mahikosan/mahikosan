@@ -43,6 +43,9 @@ Living, breathing projects which have active users and visitors, which are curre
 # Hobbies / Interests / Other
 # Summary & Outro
 
+
+John 15:16
+
 <!---
 mahikosan/mahikosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
