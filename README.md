@@ -27,17 +27,18 @@ Living, breathing projects which have active users and visitors, which are curre
 - 100% WordPress
 
 # Skills
-- React / Next.js / Node.js Javascript
-- Python / Flask
-- HTML & CSS / Tailwind / Bootstrap / Jquery
-- Linux NGINX Server Management
-- SEO
-- MongoDB
-- Wordpress
-- CI/CD
-- Test Driven Development (TDD) Unit Testing
-- Agile / Scrum
+- React / Next.js / Node.js Javascript.
+- Python / Flask.
+- HTML & CSS / Tailwind / Bootstrap / Jquery.
+- Linux NGINX Server Management.
+- SEO.
+- MongoDB.
+- Wordpress.
 
+Learning
+- CI/CD.
+- Test Driven Development (TDD) Unit Testing.
+- Agile / Scrum.
 
   Feel free to message and connect with me about anything!
 
