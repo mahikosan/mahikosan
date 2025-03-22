@@ -47,6 +47,7 @@ Learning
 
 
 John 15:16
+Galatians 2:25
 
 <!---
 mahikosan/mahikosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
