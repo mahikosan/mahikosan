@@ -35,8 +35,8 @@ Living, breathing projects in PRODUCTION which have active users and visitors:
 - MongoDB.
 - Wordpress.
 
-Learning
-- CI/CD.
+Refining
+- CI/CD & DevOps
 - Test Driven Development (TDD) Unit Testing.
 - Agile / Scrum.
 
