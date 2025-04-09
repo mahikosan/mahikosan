@@ -45,7 +45,7 @@ Refining
 # Hobbies / Interests / Other
 # Summary & Outro
 
-
+James 1:12
 John 15:16
 Galatians 2:25
 
