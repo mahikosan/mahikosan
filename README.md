@@ -1,5 +1,5 @@
 👋 Hi! Michael Malupa (@mahikosan for some) here! Have a look around.
-- 👀 I’m looking for work opportunities! Check out my [LinkedIn](www.linkedin.com/in/michael-malupa).
+- 👀 I’m looking for work opportunities! See my [LinkedIn](www.linkedin.com/in/michael-malupa).
 
 # LIVE Projects
 Living, breathing projects in PRODUCTION which have active users and visitors:
